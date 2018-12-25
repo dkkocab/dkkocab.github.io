@@ -184,11 +184,6 @@ h2{
 
 
 
-
-img:hover { 
-  outline: 1px solid blue; 
-} 
-
 #sound{
 	text-align:center;
 	font-size: 2em;
